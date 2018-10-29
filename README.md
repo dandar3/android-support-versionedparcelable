@@ -5,6 +5,8 @@ https://maven.google.com/com/android/support/versionedparcelable/28.0.0/versione
 
 **Requires:**
 - `Android 9 (API 28) SDK Platform`
+- [dandar3/android-support-annotations](https://github.com/dandar3/android-support-annotations/tree/28.0.0)
+- [dandar3/android-support-versionedparcelable](https://github.com/dandar3/android-support-versionedparcelable/tree/28.0.0)
 
 **References:**
 - https://developer.android.com/topic/libraries/support-library/revisions#28-0-0
